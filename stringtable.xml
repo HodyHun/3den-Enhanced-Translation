@@ -9,6 +9,7 @@
         <French>Positions de couverture dans le bâtiment</French>
         <Spanish>Posiciones de covertura en edificios</Spanish>
         <German>Abdeckung Gebäudepositionen</German>
+        <Hungaryan>Lefedettségi építési pozíciók</Hungaryan>
       </Key>
       <Key ID="STR_ENH_buildingPosCoverage_tooltip">
         <Original>Set how many building positions should be garrisoned.</Original>
@@ -17,6 +18,7 @@
         <French>Défini combien de positions seront occupées dans le bâtiment.</French>
         <Spanish>Ajusta cuántas posiciones de edificios  deben estar guarnicionas</Spanish>
         <German>Legt fest, wie viele der Gebäudepositionen bemannt werden sollen.</German>
+        <Hungaryan>Állítsa be, hogy hány építési pozíciót foglalon bele.</Hungaryan>
       </Key>
       <Key ID="STR_ENH_garrisonRadius_displayName">
         <Original>Area Radius</Original>
@@ -25,6 +27,7 @@
         <French>Rayon de la zone</French>
         <Spanish>Radio del área</Spanish>
         <German>Radius des Gebietes</German>
+        <Hungaryan>Területi sugár</Hungaryan>
       </Key>
       <Key ID="STR_ENH_garrison_notification">
         <Original>Unit(s) were/was not placed in building(s).</Original>
@@ -33,6 +36,7 @@
         <French> entitée(s) non placée(s) dans le(s) bâtiment(s).</French>
         <Spanish>La(s) unidad(es) no fue/fueron colocada(s) en el/los edificio(s).</Spanish>
         <German>Einheit(en) wurde(n) nicht in Gebäude(n) platziert.</German>
+        <Hungaryan>Egységek nem lettek elhelyezve az épületben.</Hungaryan>
       </Key>
       <Key ID="STR_ENH_garrison_category">
         <Original>Settings: Garrison </Original>
@@ -41,6 +45,7 @@
         <French>Paramètres: Placer en Garnison</French>
         <Spanish>Configuración: Guarnición</Spanish>
         <German>Einstellungen: Gebäude besetzten</German>
+        <Hungaryan>Beállítások: Épület befoglalása</Hungaryan>
       </Key>
     </Container>
     <Container name="Time Multiplier">
@@ -51,6 +56,7 @@
         <French>Multiplicateur de temps</French>
         <Spanish>Multiplicador de tiempo</Spanish>
         <German>Zeit Beschleunigung</German>
+        <Hungaryan>Idő felgyorsítása</Hungaryan>
       </Key>
       <Key ID="STR_ENH_timeMultiplier_tooltip">
         <Original>Set how fast the time will pass.</Original>
@@ -59,6 +65,7 @@
         <French>Défini la vitesse d'écoulement du temps</French>
         <Spanish>Ajusta cómo de rápido pasará el tiempo</Spanish>
         <German>Legt fest wie schnell die Zeit vergeht.</German>
+        <Hungaryan>Állítsa be milyen gyorsan teljen az idő.</Hungaryan>
       </Key>
     </Container>
     <Container name="Establishing Shot">
@@ -69,6 +76,7 @@
         <French>Centre</French>
         <Spanish>Posición centrada</Spanish>
         <German>Anvisierte Position</German>
+        <Hungaryan>Középre állítás</Hungaryan>
       </Key>
       <Key ID="STR_ENH_establishingShot_centerPos_tooltip">
         <Original>The center position of the virtual UAV's orbit.</Original>
@@ -77,6 +85,7 @@
         <French>Défini le centre de l'orbite de l'UAV (Drone) virtuel</French>
         <Spanish>La posición centrada de la orbita del UAV (Drone) virtual</Spanish>
         <German>Das Zentrum um die das virtuelle UAV kreist.</German>
+        <Hungaryan>Az virtuális UAV középpontja.</Hungaryan>
       </Key>
       <Key ID="STR_ENH_establishingShot_displayedText">
         <Original>Displayed Text</Original>
@@ -85,6 +94,7 @@
         <French>Texte affiché</French>
         <Spanish>Texto mostrado</Spanish>
         <German>Angezeigter Text</German>
+        <Hungaryan>Megjelenítendő szöveg</Hungaryan>
       </Key>
       <Key ID="STR_ENH_establishingShot_altitude_displayName">
         <Original>Altitude</Original>
@@ -93,6 +103,7 @@
         <French>Altitude</French>
         <Spanish>Altitud</Spanish>
         <German>Flughöhe</German>
+        <Hungaryan>Repülési magasság</Hungaryan>
       </Key>
       <Key ID="STR_ENH_establishingShot_radius_displayName">
         <Original>Radius of the orbit</Original>
@@ -101,6 +112,7 @@
         <French>Rayon de l'orbite</French>
         <Spanish>Radio de la orbita</Spanish>
         <German>Radius der Umlaufbahn</German>
+        <Hungaryan>Keringési sugár</Hungaryan>
       </Key>
       <Key ID="STR_ENH_establishingShot_viewingAngle_displayName">
         <Original>Viewing Angle</Original>
@@ -109,6 +121,7 @@
         <French>Angle de la caméra</French>
         <Spanish>Ángulo de la cámara</Spanish>
         <German>Betrachtungswinkel</German>
+        <Hungaryan>Látószög</Hungaryan>
       </Key>
     </Container>
     <Container name="Visual Settings">
@@ -119,6 +132,7 @@
         <French>Distance d'affichage</French>
         <Spanish>Distancia de visión</Spanish>
         <German>Sichtweite</German>
+        <Hungaryan>Látótávolság</Hungaryan>
       </Key>
       <Key ID="STR_ENH_viewDistance_tooltip">
         <Original>Keep in mind that this setting can be limited bei either the server or the player's visual settings. Additionally, the object view distance cannot be higher than the view distance.</Original>
@@ -127,6 +141,7 @@
         <French>Attention : ces paramètres peuvent être limités par le serveur et/ou par les paramètres d'affichage des joueurs. La distance d'affichage des objets ne peut être supérieure à la distance d'affichage globale.</French>
         <Spanish>Tenga en cuenta que esta configuración puede estar limitada tanto en el servidor como en la configuración visual del jugador. Además, la distancia de visión de objetos no puede ser mayor que la distancia de visión.</Spanish>
         <German>Bedenke, dass diese Einstellung vom Server oder den persönlichen Einstellungen des Spielers limitiert werden können. Ausserdem kann die Objektsichtweite nicht höher als die allgemeine Sichtweite sein.</German>
+        <Hungaryan>Gondolj arra, hogy a beállítások a szerver és a kliens oldali beállítások korlátozva lehetnek. Ezen kívül az objektum láthatósága nem lehet több mint az általános látótávolság</Hungaryan>
       </Key>
       <Key ID="STR_ENH_objViewDistance_displayName">
         <Original>Object View Distance</Original>
@@ -135,6 +150,7 @@
         <French>Distance d'affichage des objets</French>
         <Spanish>Distancia de visión de los objetos</Spanish>
         <German>Objektsichtweite</German>
+        <Hungaryan>Objektumok látótávolsága</Hungaryan>
       </Key>
       <Key ID="STR_ENH_disableGrass_displayName">
         <Original>Disable Grass</Original>
@@ -143,6 +159,7 @@
         <French>Désactiver l'herbe</French>
         <Spanish>Deshabilitar hierba</Spanish>
         <German>Gras ausschalten</German>
+        <Hungaryan>Fű kikapcsolása</Hungaryan>
       </Key>
     </Container>
     <Container name="Volume">
@@ -153,6 +170,7 @@
         <French>Volume (Son)</French>
         <Spanish>Volumen del sonido</Spanish>
         <German>Lautstärke (Geräusche)</German>
+        <Hungaryan>Hangerő (Zajok)</Hungaryan>
       </Key>
       <Key ID="STR_ENH_musicVolume_displayName">
         <Original>Music Volume</Original>
@@ -161,6 +179,7 @@
         <French>Volume (Musique)</French>
         <Spanish>Volumen de la música</Spanish>
         <German>Lautstärke (Musik)</German>
+        <Hungaryan>Hangerő (Zene)</Hungaryan>
       </Key>
       <Key ID="STR_ENH_radioVolume_displayName">
         <Original>Radio Volume</Original>
@@ -169,6 +188,7 @@
         <French>Volume (Radio)</French>
         <Spanish>Volumen de la radio</Spanish>
         <German>Lautstärke (Radio)</German>
+        <Hungaryan>Hangerő (Rádió)</Hungaryan>
       </Key>
       <Key ID="STR_ENH_randomMusic_displayName">
         <Original>Random Music</Original>
@@ -177,6 +197,7 @@
         <French>Musique aléatoire</French>
         <Spanish>Música aleatoría</Spanish>
         <German>Zufällige Musik</German>
+        <Hungaryan>Véletlenszerű zene</Hungaryan>
       </Key>
       <Key ID="STR_ENH_randomMusic_tooltip">
         <Original>Will play randomly selected music at mission start. Input must look as follows: classname_1, classname_2, classname_3, classname_n.</Original>
@@ -185,6 +206,7 @@
         <French>Joue aléatoirement une musique sélectionnée quand la mission débute. Formatez ainsi : ClassName_1, ClassName_2, ClassName_3, ClassName_n.</French>
         <Spanish>Reproducirá música seleccionada al azar en el inicio de la misión. La entrada debe tener el siguiente aspecto: classname_1, classname_2, classname_3, classname_n.</Spanish>
         <German>Spielt willkürlich ausgewählte Musikstücke am Anfang der Mission. Eingabe muss folgendermaßen aussehen: Klassenname_1, Klassenname_2, Klassenname_3, Klassenname_n.</German>
+        <Hungaryan>Véletlenszerű zenét játszi a küldetés elején. A következő képpen nézzen ki: classname_1, classname_2, classname_3, classname_n.</Hungaryan>
       </Key>
     </Container>
     <Container name="Intro Text">
@@ -195,6 +217,7 @@
         <French>Texte d'introduction</French>
         <Spanish>Texto de la intro</Spanish>
         <German>Intro Text</German>
+        <Hungaryan>Bevezető szöveg</Hungaryan>
       </Key>
       <Key ID="STR_ENH_introText_introDelay_displayName">
         <Original>Delay</Original>
@@ -203,6 +226,7 @@
         <French>Délai</French>
         <Spanish>Retraso</Spanish>
         <German>Verzögerung</German>
+        <Hungaryan>Késleltetés</Hungaryan>
       </Key>
       <Key ID="STR_ENH_introText_introDelay_tooltip">
         <Original>Defines how much time has to pass until the intro text is shown. Setting it to 0 will disable the intro.</Original>
@@ -211,6 +235,7 @@
         <French>Défini le délai d'apparition du texte d'introduction. Définir sur 0 pour désactiver l'introduction.</French>
         <Spanish>Define cuánto tiempo tiene que pasar hasta que se muestre el texto de introducción. Si se establece en 0, se inhabilitará la introducción.</Spanish>
         <German>Bestimmt wie viel Zeit vergehen muss bis das Intro angezeigt wird. Das Setzen auf 0 deaktiviert das Intro.</German>
+        <Hungaryan>Határozd meg mennyi idő teljen el a bevezetőig. Ha 0-ra állítod akkor a bevezető ki van kapcsolva.</Hungaryan>
       </Key>
       <Key ID="STR_ENH_introText_activate_displayName">
         <Original>Activate</Original>
@@ -219,6 +244,7 @@
         <French>Activer</French>
         <Spanish>Activar</Spanish>
         <German>Aktivieren</German>
+        <Hungaryan>Aktiválni</Hungaryan>
       </Key>
       <Key ID="STR_ENH_introText_activate_tooltip">
         <Original>Will display three lines at the beginning of the mission for every player.</Original>
@@ -227,6 +253,7 @@
         <French>Affiche trois lignes au début de la mission pour tous les joueurs.</French>
         <Spanish>Mostrará tres líneas al principio de la misión para cada jugador.</Spanish>
         <German>Am Anfang der Mission werden drei Zeilen für jeden Spieler angezeigt.</German>
+        <Hungaryan>A küldetés kezdetekor minden játékosnak három sor jelenik meg.</Hungaryan>
       </Key>
       <Key ID="STR_ENH_introText_line1_displayName">
         <Original>First Line</Original>
@@ -235,6 +262,7 @@
         <French>Première ligne</French>
         <Spanish>Primera línea</Spanish>
         <German>Erste Zeile</German>
+        <Hungaryan>Első sor</Hungaryan>
       </Key>
       <Key ID="STR_ENH_introText_line2_displayName">
         <Original>Second Line</Original>
@@ -243,6 +271,7 @@
         <French>Deuxième ligne</French>
         <Spanish>segunda línea</Spanish>
         <German>Zweite Zeile</German>
+        <Hungaryan>Második sor</Hungaryan>
       </Key>
       <Key ID="STR_ENH_introText_line3_displayName">
         <Original>Third Line</Original>
@@ -251,6 +280,7 @@
         <French>Troisième ligne</French>
         <Spanish>Tercera línea</Spanish>
         <German>Dritte Zeile</German>
+        <Hungaryan>Harmadik sor</Hungaryan>
       </Key>
     </Container>
     <Container name="Dynamic Groups">
@@ -261,6 +291,7 @@
         <French>Activer le système de Groupes Dynamiques.</French>
         <Spanish>Habilita el sistema de grupos dinámicos</Spanish>
         <German>Aktiviert das 'Dynamic Groups' System.</German>
+        <Hungaryan>A dinamikus csoport aktiválása</Hungaryan>
       </Key>
     </Container>
     <Container name="Respawn Tickets">
@@ -271,6 +302,7 @@
         <French>Tickets de Réapparition BLUFOR</French>
         <Spanish>Tickets de respawn (BLUEFOR)</Spanish>
         <German>Wiedereinstiegstickets BLUFOR</German>
+        <Hungaryan>Újracsatlakozások BLUFOR</Hungaryan>
       </Key>
       <Key ID="STR_ENH_respawnTickets_INDFOR_displayName">
         <Original>Respawn Tickets INDFOR</Original>
@@ -279,6 +311,7 @@
         <French>Tickets de Réapparition INDFOR</French>
         <Spanish>Tickets de respawn (INDFOR)</Spanish>
         <German>Wiedereinstiegstickets INDFOR</German>
+        <Hungaryan>Újracsatlakozások INDFOR</Hungaryan>
       </Key>
       <Key ID="STR_ENH_respawnTickets_OPFOR_displayName">
         <Original>Respawn Tickets OPFOR</Original>
@@ -287,6 +320,7 @@
         <French>Tickets de Réapparition OPFOR</French>
         <Spanish>Tickets de respawn (OPFOR)</Spanish>
         <German>Wiedereinstiegstickets OPFOR</German>
+        <Hungaryan>Újracsatlakozások OPFOR</Hungaryan>
       </Key>
     </Container>
     <Container name="Ambient Flyby">
@@ -297,6 +331,7 @@
         <French>Type d'appareil</French>
         <Spanish>Tipo de aeronave</Spanish>
         <German>Variante des Luftfahrzeuges</German>
+        <Hungaryan>Repülőgép típus</Hungaryan>
       </Key>
       <Key ID="STR_ENH_ambientFlyby_altitude_displayName">
         <Original>Altitude</Original>
@@ -305,6 +340,7 @@
         <French>Altitude</French>
         <Spanish>Altitud</Spanish>
         <German>Flughöhe</German>
+        <Hungaryan>Repülési magasság</Hungaryan>
       </Key>
       <Key ID="STR_ENH_ambientFlyby_altitude_tooltip">
         <Original>Altitude of the flyby.</Original>
@@ -313,6 +349,7 @@
         <French>Altitude du survol</French>
         <Spanish>Altitud de sobre vuelo</Spanish>
         <German>Flughöhe des Vorbeifluges.</German>
+        <Hungaryan>Az elrepülés magassága</Hungaryan>
       </Key>
       <Key ID="STR_ENH_ambientFlyby_speed_tooltip">
         <Original>Speed of the aircraft.</Original>
@@ -321,6 +358,7 @@
         <French>Vitesse de l'appareil</French>
         <Spanish>Velocidad de la aeronave.</Spanish>
         <German>Geschwindigkeit des Luftfahrzeuges.</German>
+        <Hungaryan>Repülő sebessége</Hungaryan>
       </Key>
       <Key ID="STR_ENH_ambientFlyby_speed_displayName">
         <Original>Speed</Original>
@@ -329,6 +367,7 @@
         <French>Vitesse</French>
         <Spanish>Velocidad</Spanish>
         <German>Geschwindigkeit</German>
+        <Hungaryan>Sebesség</Hungaryan>
       </Key>
       <Key ID="STR_ENH_ambientFlyby_iterations_displayName">
         <Original>Number of Flybys</Original>
@@ -337,6 +376,7 @@
         <French>Nombre de survols</French>
         <Spanish>Número de sobre vuelos</Spanish>
         <German>Anzahl der Vorbeiflüge</German>
+        <Hungaryan>Elrepülések száma</Hungaryan>
       </Key>
       <Key ID="STR_ENH_ambientFlyby_delay_displayName">
         <Original>Delay</Original>
@@ -345,6 +385,7 @@
         <French>Délai</French>
         <Spanish>Retraso</Spanish>
         <German>Verzögerung</German>
+        <Hungaryan>Késleltetés</Hungaryan>
       </Key>
       <Key ID="STR_ENH_ambientFlyby_delay_tooltip">
         <Original>Delay until the first flyby starts and delay in between two flybys. Note that smaller values (n-&gt;0) will have a bigger impact on performance.</Original>
@@ -353,6 +394,7 @@
         <French>Délai avant que le premier survol débute, et délai entre deux survols. Attention, une faible valeur (n-&gt;0) aura un impact plus élevé sur les performances.</French>
         <Spanish>Retraso hasta que comience el primer sobre vuelo y retraso entre dos sobre vuelos. Tenga en cuenta que los valores más pequeños (n-&gt; 0) tendrán un mayor impacto en el rendimiento.</Spanish>
         <German>Zeit bis zum ersten Vorbeiflug und Zeit zwischen zwei Vorbeiflügen. Bedenke das kleine Werte (n-&gt;0) einen größeren Einfluss auf die Leistung haben.</German>
+        <Hungaryan>Mennyi idő teljen el az első és a másodok elrepülés között. Gondolj arra hogy az alacsony értékek (n-&gt;0) nagyobb hatással lesz a teljesítményre.</Hungaryan>
       </Key>
       <Key ID="STR_ENH_ambientFlyby_startPosition_displayName">
         <Original>Starting Position</Original>
@@ -361,6 +403,7 @@
         <French>Position de départ</French>
         <Spanish>Posición de inicio</Spanish>
         <German>Anfangsposition</German>
+        <Hungaryan>Kezdő helyzet</Hungaryan>
       </Key>
       <Key ID="STR_ENH_ambientFlyby_endPosition_displayName">
         <Original>Ending Position</Original>
@@ -368,7 +411,7 @@
         <Czech>Konečná pozice</Czech>
         <French>Position de fin</French>
         <Spanish>Posición de fin</Spanish>
-        <German>Endposition</German>
+        <German>Vég helyzet</German>
       </Key>
       <Key ID="STR_ENH_ambientFlyby_type_tooltip">
         <Original>Classnames of the vehicles which should be used for a flyby. If multiple class names are inserted a random one will be chosen each time. Input must look as follows: classname_1,classname_2,classname_n.</Original>
